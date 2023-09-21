@@ -1,0 +1,12 @@
+:root{
+    --primary: #a41313; 
+    --secondary: #170ecb9e;
+}
+
+.text-primary{
+    color: var(--primary) !important;
+}
+
+.bg-success{
+    color: var(--secondary) !important;
+}
